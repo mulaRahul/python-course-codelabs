@@ -1,1 +1,1 @@
-# write your code here 👇
+lst = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
