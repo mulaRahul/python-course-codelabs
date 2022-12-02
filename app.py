@@ -1,1 +1,2 @@
-# write your code here 👇
+tpl = ( 3, 6, 9)
+lst = [ 12, 15, 18]
