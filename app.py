@@ -13,3 +13,4 @@ for ele in lst:
     
 print('-'*8)
 print('Total:', total)
+print('-'*8)
