@@ -1,1 +1,3 @@
-# write your code here 👇
+name = 27
+age = "John"
+# swap'em
