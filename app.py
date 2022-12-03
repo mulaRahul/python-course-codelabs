@@ -11,6 +11,6 @@ for ele in lst:
     print(ele, items[ele])
     total += items[ele]
     
-print('-'*8)
+print('-'*10)
 print('Total:', total)
-print('-'*8)
+print('-'*10)
